@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://eipegheecu.cluckbutton.com/sitemap.xml
